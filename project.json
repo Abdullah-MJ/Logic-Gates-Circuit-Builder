@@ -1,0 +1,23 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Build circuits with logic gates right on your wallpaper. Create amazing circuits to show, save and share with others. This is for scientific minded guys and girls. Your designs are only limited by your imagination. Your design can be as large as you want it to be. Enjoy!",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Technology" ],
+	"title" : "Logic Gates * Circuit Builder *",
+	"type" : "web",
+	"visibility" : "public"
+}
